@@ -1,9 +1,9 @@
 # MoleCancerDetection
 
 ### Team Members:
-- Kun Ágoston (GS0N0V)  
-- Sajben Dániel (V4XUSX)  
-- Széll Dávid (D4VKW2)  
+- Kun Ágoston  
+- Sajben Dániel 
+- Széll Dávid
 
 ---
 
